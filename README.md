@@ -17,7 +17,7 @@ Windows:
 .venv\Scripts\activate
 ```
 Linux/macOS:
-```
+```bash
 source .venv/bin/activate
 ```
 Установи зависимости
