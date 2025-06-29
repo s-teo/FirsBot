@@ -24,6 +24,9 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+Незабудьте поменять токен бота на ваш
+
 Запусти бота
 ```bash
 python app.py
